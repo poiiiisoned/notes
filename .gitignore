@@ -4,6 +4,7 @@
 #text rahasia
 secret.text
 dontdisturb.txt
+decompose.txt
 # Logs
 logs
 *.log
